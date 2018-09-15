@@ -90,7 +90,7 @@ android.ndk = 10.3.2
 #android.private_storage = True
 
 # (str) Android NDK directory (if empty, it will be automatically downloaded.)
-android.ndk_path = /home/kivy/crystax-ndk-10.3.2
+# android.ndk_path = /home/kivy/crystax-ndk-10.3.2
 
 # (str) Android SDK directory (if empty, it will be automatically downloaded.)
 #android.sdk_path =
@@ -99,7 +99,7 @@ android.ndk_path = /home/kivy/crystax-ndk-10.3.2
 #android.ant_path =
 
 # (str) python-for-android git clone directory (if empty, it will be automatically cloned from github)
-android.p4a_dir = /home/kivy/python-for-android-master
+# android.p4a_dir = /home/kivy/python-for-android-master
 
 # (list) python-for-android whitelist
 #android.p4a_whitelist =
